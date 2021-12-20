@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serviceModule.iml" filepath="$PROJECT_DIR$/.idea/modules/serviceModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/serviceModule.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/serviceModule.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/image-picker-lib/serviceModule.image-picker-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/image-picker-lib/serviceModule.image-picker-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restful-api-client/serviceModule.restful-api-client.iml" filepath="$PROJECT_DIR$/.idea/modules/restful-api-client/serviceModule.restful-api-client.iml" />
+    </modules>
+  </component>
+</project>

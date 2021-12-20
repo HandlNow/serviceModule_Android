@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.thellmund.Android-Week-View:threetenabp:5.2.4@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/transforms-3/371363074195142b4f8e4044626e2966/transformed/jetified-threetenabp-5.2.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/transforms-3/371363074195142b4f8e4044626e2966/transformed/jetified-threetenabp-5.2.4/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/transforms-3/371363074195142b4f8e4044626e2966/transformed/jetified-threetenabp-5.2.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/modules-2/files-2.1/com.github.thellmund.Android-Week-View/threetenabp/5.2.4/40d9780503f32e49be769af2d9eabed06d2b570f/threetenabp-5.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

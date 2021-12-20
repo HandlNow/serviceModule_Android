@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-messenger:11.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/transforms-3/74eb98cc75014090e99953df103ef71f/transformed/jetified-facebook-messenger-11.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/transforms-3/74eb98cc75014090e99953df103ef71f/transformed/jetified-facebook-messenger-11.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/transforms-3/74eb98cc75014090e99953df103ef71f/transformed/jetified-facebook-messenger-11.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/modules-2/files-2.1/com.facebook.android/facebook-messenger/11.0.0/4e4e9d0d5f7cf6655a93734ec45f7c30d0bd7f0e/facebook-messenger-11.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/modules-2/files-2.1/com.facebook.android/facebook-messenger/11.0.0/da8edbd7ad52fda1e7194a7e1bf1fa11247eb120/facebook-messenger-11.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

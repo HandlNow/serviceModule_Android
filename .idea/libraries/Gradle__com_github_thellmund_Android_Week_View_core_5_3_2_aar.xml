@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.thellmund.Android-Week-View:core:5.3.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/transforms-3/f6cd965b0acecff9052d816d2418e61e/transformed/jetified-core-5.3.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/transforms-3/f6cd965b0acecff9052d816d2418e61e/transformed/jetified-core-5.3.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/transforms-3/f6cd965b0acecff9052d816d2418e61e/transformed/jetified-core-5.3.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/modules-2/files-2.1/com.github.thellmund.Android-Week-View/core/5.3.2/a83ae9951ae569952ea17b780be9a7b3879dcfe2/core-5.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: gun0912.ted:tedonactivityresult:1.0.6@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/transforms-3/f4a452baae090db2b50a8870a8d70d5c/transformed/jetified-tedonactivityresult-1.0.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/transforms-3/f4a452baae090db2b50a8870a8d70d5c/transformed/jetified-tedonactivityresult-1.0.6/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/transforms-3/f4a452baae090db2b50a8870a8d70d5c/transformed/jetified-tedonactivityresult-1.0.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/modules-2/files-2.1/gun0912.ted/tedonactivityresult/1.0.6/62343d7e7f1184e032d468749f0e6b4d4173bd61/tedonactivityresult-1.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/modules-2/files-2.1/gun0912.ted/tedonactivityresult/1.0.6/61d65dcfa161a55417151e7c70bce9c618b53817/tedonactivityresult-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

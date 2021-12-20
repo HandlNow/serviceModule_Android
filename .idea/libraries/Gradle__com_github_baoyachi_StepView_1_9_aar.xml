@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.baoyachi:StepView:1.9@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/transforms-3/ffd88ee0373bb7fb2be18f209bca4b9d/transformed/jetified-StepView-1.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/transforms-3/ffd88ee0373bb7fb2be18f209bca4b9d/transformed/jetified-StepView-1.9/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/transforms-3/ffd88ee0373bb7fb2be18f209bca4b9d/transformed/jetified-StepView-1.9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle_7_3/caches/modules-2/files-2.1/com.github.baoyachi/StepView/1.9/f19f4add5f76af862dd45371dc17a1fecebf43dd/StepView-1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
